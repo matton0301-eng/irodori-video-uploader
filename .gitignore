@@ -1,0 +1,10 @@
+.env*
+!.env.example
+*.pem
+*.key
+*serviceAccount*
+*adminsdk*
+client_secret*.json
+token.json
+.claude/settings.local.json
+~$*
