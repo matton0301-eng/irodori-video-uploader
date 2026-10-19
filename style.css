@@ -40,8 +40,8 @@ a { color: var(--accent); }
 
 .lead { color: var(--muted); margin: 0 0 24px; }
 .lang { margin-top: 48px; padding-top: 8px; border-top: 3px double var(--line); }
-.badge { margin: 24px 0; }
-.badge img { height: 28px; width: auto; display: block; }
+.badge { margin: 0 0 0 -36px; }
+.badge img { height: 88px; width: auto; display: block; }
 
 nav, footer {
   font-size: 0.92rem;
